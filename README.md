@@ -1,5 +1,5 @@
 # Escola_arte
-Trabalho Educacional 
+Trabalho Educacional PI 1 
 <h3>Sobre</h3>
 <p>A aplicação consiste em um site escolar, com um sistema de gestão escolar com cadastro e consulta de alunos, professores e cursos</p>
 
